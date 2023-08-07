@@ -30,7 +30,7 @@ Programmer & web designer .
 <a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" /></a>
 <a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a>
 <a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored.svg" width="36" height="36" alt="XD" /></a>
-<a href="" target="_blank" rel="noreferrer"><img src="https://github.com/cappelnord/EzSVG/blob/master/example6.lua" width="36" height="36" alt="lua" /></a>
+<a href="" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/lua/lua-icon.svg" width="36" height="36" alt="lua" /></a>
 </p>
 
 
